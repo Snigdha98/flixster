@@ -3,8 +3,7 @@
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/mbajb9k.gif)
-
+<img src=images/Flixster.gif width=250><br>
 
 ## Flix Part 1
 
