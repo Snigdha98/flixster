@@ -1,13 +1,12 @@
-# Flix
+# Flixster
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/LJYndKX.gif)
+![](https://i.imgur.com/mbajb9k.gif)
 
 
 ## Flix Part 1
-
 
 #### REQUIRED (10pts)
 - [X] (2pts) User sees an app icon on the home screen and a styled launch screen.
